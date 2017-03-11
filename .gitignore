@@ -1,2 +1,5 @@
 unreal/project/Intermediate/
+unreal/project/Saved
+unreal/project/Binaries
 unreal/project/*db
+unreal/project/*sln
