@@ -10,3 +10,5 @@ unreal/project/Plugins/testEditorStandaloneWindow
 unreal/project/Plugins/testEditorToolbarButton
 unreal/project/Plugins/MayaBridge/Binaries
 unreal/project/Plugins/MayaBridge/Intermediate
+unreal/project/Plugins/UtilityLibrary/Binaries
+unreal/project/Plugins/UtilityLibrary/Intermediate
